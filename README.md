@@ -21,7 +21,7 @@ node-ci-cd-app/
 
 ## 🔧 Technologies Used
 
-* **Node.js**: JavaScript runtime environment
+* **Node.js**: JavaScript runtime 
 * **Express.js**: Web framework for Node
 * **GitLab CI/CD**: Continuous Integration and Deployment
 * **AWS EC2**: Cloud hosting environment
